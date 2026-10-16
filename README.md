@@ -1,3 +1,5 @@
+<img src="assets/capa.jpg" alt="Certificações: Terraform, Azure, AWS, FinOps e Oracle" width="100%">
+
 <div align="center">
 
 # Olá, eu sou o Rafael 👋
