@@ -1,13 +1,12 @@
-<img src="assets/capa-certificacoes.jpg" alt="Certificações: Terraform, Azure, AWS, FinOps e Oracle" width="100%">
+<img src="assets/capa-certificacoes-v2.jpg" alt="Certificações: Terraform, Azure, AWS, FinOps e Oracle" width="100%">
 
 <div align="center">
 
-# Olá, eu sou o Rafael 👋
+# Olá, pessoas
 
-**FinOps & Cloud · Azure · Automação · Python**
+**Cloud | Terraform | DevOps | IaC | Azure | AWS | FinOps**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelbbiasotto/)
-[![E-mail](https://img.shields.io/badge/E--mail-EA4335?logo=gmail&logoColor=white)](mailto:rafael.buranelo@gmail.com)
+<a href="https://www.linkedin.com/in/rafaelbbiasotto/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="38"></a>
 
 </div>
 
