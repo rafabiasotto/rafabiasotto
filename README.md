@@ -40,6 +40,14 @@ Profissional de **Cloud** com mais de 8 anos em TI, 3 deles dedicados a ambiente
   <br>
 
 <!--START_SECTION:badges-->
+[![HashiCorp Certified: Terraform Associate (004)](https://images.credly.com/size/80x80/images/6f614b71-3f2e-488e-8b29-71e90d4dbf80/blob)](https://www.credly.com/badges/6e2a344e-f872-4473-84dc-5c0628bed40c)
+[![AWS Educate Introduction to Cloud 101 - Training Badge](https://images.credly.com/size/80x80/images/e51a8579-188d-4363-8ed1-12ad164ef57b/blob)](https://www.credly.com/badges/04ab4fab-1677-4803-88f7-01cc60ec5128)
+[![FinOps Certified Engineer](https://images.credly.com/size/80x80/images/90c78afd-e885-4525-8f5e-e5834d8cb13d/image.png)](https://www.credly.com/badges/cc3904df-4633-46e2-9937-a2e09cc545f6)
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/833ac08d-4242-4ae8-bcec-c70ee332146d)
+[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/80x80/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/8a315f77-f3ef-4262-951f-c9e467a8d8f4)
+[![FinOps Certified Practitioner](https://images.credly.com/size/80x80/images/08a5010a-0c0a-448c-981e-c116fedd380c/image.png)](https://www.credly.com/badges/8a8bb524-8738-46ca-ad04-6425e1b71a6e)
+[![Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/80x80/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)](https://www.credly.com/badges/c17d18ca-b433-4031-bc10-ecd54ea0e2bf)
+[![Describe core Azure architectural components](https://images.credly.com/size/80x80/images/821ab9b4-e887-42a9-a598-873dc0a1e61c/converted20261016-32-g0m33v.png)](https://www.credly.com/users/rafael-biasotto/badges)
 <!--END_SECTION:badges-->
 
 </details>
