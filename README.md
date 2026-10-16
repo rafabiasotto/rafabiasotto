@@ -1,4 +1,4 @@
-<img src="assets/capa.jpg" alt="Certificações: Terraform, Azure, AWS, FinOps e Oracle" width="100%">
+<img src="assets/capa-certificacoes.jpg" alt="Certificações: Terraform, Azure, AWS, FinOps e Oracle" width="100%">
 
 <div align="center">
 
