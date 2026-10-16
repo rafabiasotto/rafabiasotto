@@ -1,0 +1,21 @@
+name: Atualizar badges do Credly
+
+on:
+  schedule:
+    - cron: "0 9 * * *"   # todo dia às 06:00 (Brasília)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  badges:
+    name: Badges do Credly no README
+    runs-on: ubuntu-latest
+    steps:
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@main
+        with:
+          COMMIT_MESSAGE: "Atualiza badges do Credly"
+          CREDLY_USER: rafael-biasotto
+          BADGE_SIZE: 96

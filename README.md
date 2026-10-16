@@ -33,6 +33,17 @@ Profissional de **Cloud** com mais de 8 anos em TI, 3 deles dedicados a ambiente
 
 **Suporte técnico** (5 anos)
 
+### 🎓 Certificações
+
+<details>
+  <summary><b>Certificates & Trainings</b> (clique para ver)</summary>
+  <br>
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+</details>
+
 ### 🛠 Tecnologias
 
 **Cloud**<br>
