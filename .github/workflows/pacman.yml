@@ -1,4 +1,4 @@
-name: Gerar Pac-Man das contribuições
+name: Gerar Pac-Man e estatísticas do perfil
 
 on:
   schedule:
@@ -12,11 +12,18 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
+      - uses: actions/checkout@v4
+
       - name: Gerar SVG do Pac-Man
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
           games: 'pacman'
+
+      - name: Gerar cartão de estatísticas
+        run: python .github/scripts/cartao_estatisticas.py ${{ github.repository_owner }} dist/github-stats.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publicar no branch output
         uses: crazy-max/ghaction-github-pages@v3.1.0

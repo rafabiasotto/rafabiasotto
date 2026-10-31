@@ -57,7 +57,7 @@ Profissional de **Cloud** com mais de 8 anos em TI, 3 deles dedicados a ambiente
 ### 📈 Atividade no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafabiasotto&show_icons=true&include_all_commits=true&count_private=true&bg_color=0B1B2E&title_color=FF8A3D&icon_color=4C9AFF&text_color=E6EDF3&hide_border=true&border_radius=12" alt="Estatísticas do GitHub" height="170">
+  <img src="https://raw.githubusercontent.com/rafabiasotto/rafabiasotto/output/github-stats.svg" alt="Estatísticas do GitHub" height="170">
   <img src="https://streak-stats.demolab.com?user=rafabiasotto&background=0B1B2E&ring=FF8A3D&fire=FF8A3D&currStreakLabel=FF8A3D&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9AA7B4&stroke=1E3352&hide_border=true&border_radius=12&locale=pt_BR" alt="Sequência de contribuições" height="170">
 </div>
 
